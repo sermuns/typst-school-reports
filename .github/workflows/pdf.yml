@@ -16,7 +16,7 @@ jobs:
 
       - uses: taiki-e/install-action@v2
         with:
-          tool: stil,typst
+          tool: stil,typst-cli
 
       - run: make -j && mkdir pdfs && cp *.pdf pdfs
 
