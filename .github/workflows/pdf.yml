@@ -20,7 +20,7 @@ jobs:
 
       - run: make -j && mkdir pdfs && cp *.pdf pdfs
 
-      - run: stil pdfs --url-path /typst-school-reports/
+      - run: cd pdfs && stil --output-dir ../public/ --url-path /typst-school-reports/
 
       - uses: actions/upload-pages-artifact@v3
         with:
