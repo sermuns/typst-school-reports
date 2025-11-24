@@ -65,7 +65,7 @@ By having a higher $k_p$, we decrease the risk of this happening. Increasing $k_
 @5_3_2 shows the path for all the agents when the orientation of the formation is preserved, where both the first and last agent measure the absolute position.
 
 #figure(
-  image("figures/ex_5_3_2_.svg"),
+  image("figures/ex5_2_2_f_1.svg"),
   caption: [The paths of all eight agents when the orientation of the formation is preserved.],
 )<5_3_2>
 

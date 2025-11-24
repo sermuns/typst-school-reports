@@ -1,0 +1,11 @@
+Samuel T började med det här 27 februari. Fyll gärna på!
+
+Hur vi skriver:
+Bra         Dåligt
+--------------------------------------------------------------------
+LiU:s       LiUs      // SamuelT
+LiU:s SSO   LiU SSO   // SamuelT
+LiU-ID      LiU ID    // SamuelT
+ASP.NET     ASP.net   // SamuelT
+C#-kod      C#kod     //SamuelT
+Javascript-kod   Javascriptkod  //SamuelT

@@ -174,22 +174,22 @@ The `constant-velocity` model, shown in @const, should work fine on straight roa
 #set image(width: 80%)
 
 #figure(
-  image("figures/Scenario 10, Agents 12, 15 and 20_gat.svg"),
+  image("figures/Scenario_10,_Agents_12,_15_and_20_gat.svg"),
   caption: [Predictions using the `model_gatmap`],
 )<gatmap>
 
 #figure(
-  image("figures/Scenario 10, Agents 12, 15 and 20_const.svg"),
+  image("figures/Scenario_10,_Agents_12,_15_and_20_const.svg"),
   caption: [Predictions using the `constant_velocity`],
 )<const>
 
 #figure(
-  image("figures/Scenario 10, Agents 12, 15 and 20_map.svg"),
+  image("figures/Scenario_10,_Agents_12,_15_and_20_map.svg"),
   caption: [Predictions using the `model_map`],
 )<map>
 
 #figure(
-  image("figures/Scenario 10, Agents 12, 15 and 20_nomap.svg"),
+  image("figures/Scenario_10,_Agents_12,_15_and_20_nomap.svg"),
   caption: [Predictions using the `model_nomap`],
 )<nomap>
 
