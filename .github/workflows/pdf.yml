@@ -18,9 +18,9 @@ jobs:
         with:
           tool: stil,typst-cli
 
-      - run: make -j && mkdir pdfs && cp *.pdf pdfs
+      - run: make -j
 
-      - run: cd pdfs && stil --output-dir ../public/ --title typst-school-reports --url-path /typst-school-reports/
+      - run: stil --title typst-school-reports --url-path /typst-school-reports/
 
       - uses: actions/upload-pages-artifact@v3
         with:
